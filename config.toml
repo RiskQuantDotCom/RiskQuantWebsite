@@ -16,15 +16,10 @@ metaDataFormat = "yaml"
    mediaType = "application/rss+xml"
    baseName = "rss"
 
-[outputFormats.jsonfeed]
-  mediaType = "application/json"
-  baseName = "feed"
-  isPlainText = true
-
  [outputs]
-    posts = ["html", "rss", "jsonfeed"]
+    posts = ["html", "rss"]
     pages = ["html"]
-    home = ["html", "rss", "jsonfeed"]
+    home = ["html", "rss"]
     section = ["html"]
     taxonomy = ["html"]
     term = ["html"]
