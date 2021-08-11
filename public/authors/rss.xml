@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Cyber Risk Quant</title>
+    <link>https://CyberRiskQuant.com/authors/</link>
+    <description>Recent content in Authors on Cyber Risk Quant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>DAH@CyberRiskQuant.com (Duncan Hart)</managingEditor>
+    <webMaster>DAH@CyberRiskQuant.com (Duncan Hart)</webMaster>
+    <lastBuildDate>Tue, 29 Dec 2020 10:26:40 +1000</lastBuildDate><atom:link href="https://CyberRiskQuant.com/authors/rss.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

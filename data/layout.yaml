@@ -1,0 +1,32 @@
+---
+logo:
+  text: Cyber Risk Quant
+  showLogoTextOnDesktop: true
+  showLogoTextOnMobile: true
+  showLogoImageOnDesktop: true
+  showLogoImageOnMobile: true
+  logoDesktop: "images/logo/crqsymbol.jpg"
+  logoDesktopDarkMode: "images/logo/crqsymbol.jpg"
+  logoMobile: "images/logo/crqsymbol.jpg"
+  logoMobileDarkMode: "images/logo/crqsymbol.jpg"
+  logoDesktopHeight: 50
+  logoMobileHeight: 50
+
+header:
+  headerHeight: 90px
+  headerFixed: true
+  disableDarkMode: false
+
+footer:
+  title: "Cyber Risk Quant"
+  description: ""
+  copyrightText: "© Copyright 2021 Risk Quant Pty Ltd ABN35635909901"
+  copyrightLink: "https://CyberRiskQuant.com"
+  copyrightShow: true
+  showSocialMediaIcons: true
+  footerMenuPrimaryHeading: "Site"
+  showPrimaryFooterMenu: true
+  footerMenuSecondaryHeading: "Locations"
+  showSecondaryFooterMenu: true
+  footerMenuThirdHeading: "Policies"
+  showThirdFooterMenu: false

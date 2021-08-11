@@ -1,0 +1,162 @@
+baseURL = "https://CyberRiskQuant.com/"
+languageCode = "en-us"
+title = "Cyber Risk Quant"
+theme = "hugo-paradigm"
+enableGitInfo = false
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+metaDataFormat = "yaml"
+
+[outputFormats]
+ [outputFormats.html]
+   mediaType = "text/html"
+   
+ [outputFormats.rss]
+   mediaType = "application/rss+xml"
+   baseName = "rss"
+
+[outputFormats.jsonfeed]
+  mediaType = "application/json"
+  baseName = "feed"
+  isPlainText = true
+
+ [outputs]
+    posts = ["html", "rss", "jsonfeed"]
+    pages = ["html"]
+    home = ["html", "rss", "jsonfeed"]
+    section = ["html"]
+    taxonomy = ["html"]
+    term = ["html"]
+     
+[Author]
+    name = "Duncan Hart"
+    email = "Blog@CyberRiskQuant.com"
+
+[Params]
+    paginate = 3
+    legalName = "RiskQuant Pty Ltd t/as Cyber Risk Quant - ABN 35635909901"
+    founder = "Duncan Hart"
+    description = "Cyber security risk quantification and performance measurement consultancy and decision support"
+    disambiguatingDescription = "Cyber Risk Quant addresses the problem of 'immeasurement'. Immeasurement is the absence of a clear means of assessing performance, progress, success or impact on the job. At Cyber Risk Quant we design effective management information systems that specifically provide the information that cyber security decision making needs."
+    logo = "favicon-32x32.png"
+    copyright = "Attribution-NonCommercial 4.0 International"
+    streetAddress = "171 Collins Street"
+    addressLocality = "Melbourne"
+    addressRegion = "Victoria"
+    postalCode = "3000"
+    addressCountry = "Australia"
+    telephone = "+61 3 7020 3350"
+    email = "StartHere@CyberRiskQuant.com"
+    baseURL = "https://CyberRiskQuant.com"
+    sameAS = "https://www.crunchbase.com/organization/cyber-risk-quant"
+    inLanguage = "en-US"
+    image = "favicon-32x32.png"
+    partner_url1 = "https://github.com"
+    
+[Permalink]
+    post = "/:year/:month/:title/"
+    
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    work =  "works"
+    author = "authors"
+  
+# Main Menu
+[[menu.main]]
+    name = "Cyber Risk Quantification"
+    url = "/why/"
+    weight = 3
+
+[[menu.main]]
+    name = "Cyber Security Performance Management"
+    url = "/performance/"
+    weight = 4    
+
+[[menu.main]]
+    name = "Insights & News"
+    url = "/posts/"
+    weight = 5
+
+[[menu.main]]
+    name = "About us"
+    url = "/about"
+    weight = 6
+    identifier = 'dropdown'
+    [[menu.main]]
+        name = "About Us"
+        url = "/about"
+        parent = "dropdown"
+        weight = 1
+    [[menu.main]]
+        name = "Leadership"
+        url = "/leadership"
+        parent = "dropdown"
+        weight = 2
+    
+[[menu.main]]
+    name = "Contact us"
+    url = "/contact/"
+    weight = 7
+
+# Footer Menu Primary
+[[menu.footer_primary]]
+	name = "Home"
+	url = "/"
+    weight = 1
+[[menu.footer_primary]]
+    name = "Sitemap"
+    url = "sitemap.xml"
+    weight = 2
+[[menu.footer_primary]]
+    name = "Privacy policy"
+    url = "/privacy/"
+    weight = 3
+[[menu.footer_primary]]
+    name = "Cookie policy"
+    url = "/cookie/"
+    weight = 4
+[[menu.footer_primary]]
+    name = "Terms of use"
+    url = "/tos/"
+    weight = 5
+[[menu.footer_primary]]
+    name = "Code of Ethical Responsibility"
+    url = "/ethics/"
+    weight = 6                
+
+# Footer Menu Secondary
+[[menu.footer_secondary]]
+    name = "Melbourne, AU" 
+    url = "/contact/"
+    weight = 1
+
+[[menu.footer_secondary]]
+    name = "London, UK"
+    url = "/contact/"
+    weight = 2
+[[menu.footer_secondary]]
+    name = "Cambridge, USA"
+    url = "/contact/"
+    weight = 3
+
+# Footer Menu Third
+[[menu.footer_third]]
+    name = "Privacy policy"
+    url = "/privacy/"
+    weight = 1
+
+[[menu.footer_third]]
+    name = "Cookie policy"
+    url = "/cookie/"
+    weight = 2
+
+[[menu.footer_third]]
+    name = "Terms of use"
+    url = "/tos/"
+    weight = 3
+
+
+    
+

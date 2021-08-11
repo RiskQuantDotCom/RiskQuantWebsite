@@ -1,0 +1,23 @@
+:root {
+  --color-base: #ffffff;
+  --color-base-offset: #f2f2f2;
+  --color-base-text: #211d70;
+  --color-base-text-offset: #405965;
+  --color-primary: #00aeef;
+  --color-primary-offset: #4224d9;
+  --color-primary-text: #ffffff;
+  --color-primary-text-offset: #e8ffff;
+  --font-base: Roboto;
+  --font-heading: Roboto; }
+
+html[data-mode='dark'] {
+  --color-base: #121212;
+  --color-base-offset: #1e1e1e;
+  --color-base-text: #ffffff;
+  --color-base-text-offset: #bfbfbf;
+  --color-primary: #6a2bf7;
+  --color-primary-offset: #521ec5;
+  --color-primary-text: #ffffff;
+  --color-primary-text-offset: #e8ffff; }
+
+/*# sourceMappingURL=theme.css.map */

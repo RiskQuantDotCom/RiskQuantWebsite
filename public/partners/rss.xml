@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partners on Cyber Risk Quant</title>
+    <link>https://CyberRiskQuant.com/partners/</link>
+    <description>Recent content in Partners on Cyber Risk Quant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>DAH@CyberRiskQuant.com (Duncan Hart)</managingEditor>
+    <webMaster>DAH@CyberRiskQuant.com (Duncan Hart)</webMaster>
+    <lastBuildDate>Wed, 28 Nov 2018 05:15:34 +0000</lastBuildDate><atom:link href="https://CyberRiskQuant.com/partners/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://CyberRiskQuant.com/partners/hugo/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
+      <guid>https://CyberRiskQuant.com/partners/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netlify</title>
+      <link>https://CyberRiskQuant.com/partners/netlify/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
+      <guid>https://CyberRiskQuant.com/partners/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forestry</title>
+      <link>https://CyberRiskQuant.com/partners/forestry/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
+      <guid>https://CyberRiskQuant.com/partners/forestry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://CyberRiskQuant.com/partners/github/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
+      <guid>https://CyberRiskQuant.com/partners/github/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
