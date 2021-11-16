@@ -14,7 +14,7 @@ sections:
 ### Got questions? Need help? We're here for you.
 #### London, UK   
 Tel: +44 20 3769 9113    
-[Tokenhouse, 12 Tokenhouse Yard, London, EC2R 7AS](https://goo.gl/maps/GnAHEVv7S21MwmRA7).
+[30 St Mary Axe, London, EC3A 8BF](https://goo.gl/maps/8t61DzgYSFNDXAvY9).
 
 #### Cambridge, USA
 Tel: +1 857 777 0243   
