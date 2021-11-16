@@ -32,17 +32,14 @@ metaDataFormat = "yaml"
     paginate = 3
     legalName = "RiskQuant Pty Ltd t/as Cyber Risk Quant"
     founder = "Duncan Hart"
-    description = "Cyber security risk quantification and performance measurement consultancy and decision support"
-    disambiguatingDescription = "Cyber Risk Quant addresses the problem of 'immeasurement'. Immeasurement is the absence of a clear means of assessing performance, progress, success or impact on the job. At Cyber Risk Quant we design effective management information systems that specifically provide the information that cyber security decision making needs."
     logo = "favicon-32x32.png"
     copyright = "Attribution-NonCommercial 4.0 International"
-    streetAddress = "171 Collins Street"
+    streetAddress = "5/171 Collins Street"
     addressLocality = "Melbourne"
     addressRegion = "Victoria"
     postalCode = "3000"
     addressCountry = "Australia"
     telephone = "+61 3 7020 3350"
-    email = "StartHere@CyberRiskQuant.com"
     baseURL = "https://CyberRiskQuant.com"
     sameAS = "https://www.crunchbase.com/organization/cyber-risk-quant"
     inLanguage = "en-US"
@@ -56,7 +53,7 @@ metaDataFormat = "yaml"
     category = "categories"
     work =  "works"
     author = "authors"
-  
+ 
 # Main Menu
 [[menu.main]]
     name = "The Imponderables Blog"
