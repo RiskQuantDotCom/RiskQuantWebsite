@@ -1,6 +1,6 @@
 ---
-title: Cyber Risk Quant - Code of Ethical Responsibility
-date: 2018-02-10T11:52:18+07:00
+title: Code of Ethical Responsibility
+date: 2020-03-01T00:00:01+00:00 
 layout: custom
 headerTransparent: false
 rss_ignore: true

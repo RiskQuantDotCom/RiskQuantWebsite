@@ -1,6 +1,6 @@
 ---
-title: Cyber Risk Quant - Terms of Use
-date: 2018-02-10T11:52:18+07:00
+title: Terms of Use
+date: 2020-03-01T00:00:01+00:00 
 layout: custom
 headerTransparent: false
 rss_ignore: true

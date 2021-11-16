@@ -1,6 +1,6 @@
 ---
-title: Are you ready...?
-date: 2020-03-22
+title: Are you ready for the hardest cyber security questions...?
+date: 2020-03-01T00:00:01+00:00
 headerTransparent: false
 sections:
 - template: hero
@@ -14,7 +14,7 @@ sections:
     backgroundColorCustom: ''
   headings:
     heading: "Are you ready for the hardest cyber security questions?"
-    text: "To be truly prepared, ....."
+    text: "To be truly prepared,..."
     headingColorCustom: ''
     subHeadingColorCustom: ''
     textColorCustom: '#405965'
