@@ -1,5 +1,5 @@
 ---
-title: Cyber Risk Quant - Terms of use
+title: Cyber Risk Quant - Terms of Use
 date: 2018-02-10T11:52:18+07:00
 layout: custom
 headerTransparent: false
@@ -11,7 +11,7 @@ sections:
   align: center
   columns: 8 # 6 - 12 - Set the width of the content section based on a 12 column grid
 ---
-### Terms of use
+### Terms of Use
 
 Cyber Risk Quant provides its content on its websites or applications that post a link to this Terms of Use (the “Site”) subject to the following terms and conditions (the “Terms”). 
 
@@ -53,9 +53,5 @@ You hereby indemnify, defend, and hold harmless Cyber Risk Quant and all of its 
 
 We may provide links to third-party websites, and some of the content appearing to be on this Site is in fact supplied, supported, or provided directly or indirectly by third parties, for example, in instances of framing of third-party websites or incorporation through framesets of content supplied by third-party servers. Cyber Risk Quant has no responsibility for these third-party websites, which are governed by the terms of use and privacy policies, if any, of the applicable third-party content providers.
 
-#### Governing law; jurisdiction
+These Terms are valid from 1 March 2020 and until 1 March 2022.
 
-These Terms are governed by the laws of the State of Victoria, Australia without reference to the principles of conflicts of laws thereof.
-
-
----

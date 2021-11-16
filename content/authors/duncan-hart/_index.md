@@ -1,7 +1,7 @@
 ---
-title: 
+title: 'Duncan Hart' 
 name: 'Duncan Hart'
-image: 
+image: 'images/author/duncanhart.jpg' 
 rss_ignore: true
 outputs:
 - html

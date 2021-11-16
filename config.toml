@@ -26,11 +26,11 @@ metaDataFormat = "yaml"
      
 [Author]
     name = "Duncan Hart"
-    email = "Blog@CyberRiskQuant.com"
+    email = "DAH@CyberRiskQuant.com"
 
 [Params]
     paginate = 3
-    legalName = "RiskQuant Pty Ltd t/as Cyber Risk Quant - ABN 35635909901"
+    legalName = "RiskQuant Pty Ltd t/as Cyber Risk Quant"
     founder = "Duncan Hart"
     description = "Cyber security risk quantification and performance measurement consultancy and decision support"
     disambiguatingDescription = "Cyber Risk Quant addresses the problem of 'immeasurement'. Immeasurement is the absence of a clear means of assessing performance, progress, success or impact on the job. At Cyber Risk Quant we design effective management information systems that specifically provide the information that cyber security decision making needs."
@@ -47,7 +47,6 @@ metaDataFormat = "yaml"
     sameAS = "https://www.crunchbase.com/organization/cyber-risk-quant"
     inLanguage = "en-US"
     image = "favicon-32x32.png"
-    partner_url1 = "https://github.com"
     
 [Permalink]
     post = "/:year/:month/:title/"
@@ -60,40 +59,19 @@ metaDataFormat = "yaml"
   
 # Main Menu
 [[menu.main]]
-    name = "Cyber Risk Quantification"
-    url = "/why/"
-    weight = 3
-
-[[menu.main]]
-    name = "Cyber Security Performance Management"
-    url = "/performance/"
-    weight = 4    
-
-[[menu.main]]
-    name = "Insights & News"
+    name = "The Imponderables Blog"
     url = "/posts/"
-    weight = 5
+    weight = 1
 
 [[menu.main]]
     name = "About us"
     url = "/about"
-    weight = 6
-    identifier = 'dropdown'
-    [[menu.main]]
-        name = "About Us"
-        url = "/about"
-        parent = "dropdown"
-        weight = 1
-    [[menu.main]]
-        name = "Leadership"
-        url = "/leadership"
-        parent = "dropdown"
-        weight = 2
-    
+    weight = 2
+  
 [[menu.main]]
     name = "Contact us"
     url = "/contact/"
-    weight = 7
+    weight = 3
 
 # Footer Menu Primary
 [[menu.footer_primary]]
@@ -113,13 +91,17 @@ metaDataFormat = "yaml"
     url = "/cookie/"
     weight = 4
 [[menu.footer_primary]]
-    name = "Terms of use"
+    name = "Terms of Use"
     url = "/tos/"
     weight = 5
 [[menu.footer_primary]]
     name = "Code of Ethical Responsibility"
     url = "/ethics/"
     weight = 6                
+[[menu.footer_primary]]
+    name = "Imprint"
+    url = "/imprint/"
+    weight = 7
 
 # Footer Menu Secondary
 [[menu.footer_secondary]]
@@ -151,7 +133,3 @@ metaDataFormat = "yaml"
     name = "Terms of use"
     url = "/tos/"
     weight = 3
-
-
-    
-
