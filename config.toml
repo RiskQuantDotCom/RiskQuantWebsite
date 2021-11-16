@@ -30,20 +30,7 @@ metaDataFormat = "yaml"
 
 [Params]
     paginate = 3
-    legalName = "RiskQuant Pty Ltd t/as Cyber Risk Quant"
-    founder = "Duncan Hart"
-    logo = "favicon-32x32.png"
-    copyright = "Attribution-NonCommercial 4.0 International"
-    streetAddress = "5/171 Collins Street"
-    addressLocality = "Melbourne"
-    addressRegion = "Victoria"
-    postalCode = "3000"
-    addressCountry = "Australia"
-    telephone = "+61 3 7020 3350"
-    baseURL = "https://CyberRiskQuant.com"
-    sameAS = "https://www.crunchbase.com/organization/cyber-risk-quant"
     inLanguage = "en-US"
-    image = "favicon-32x32.png"
     
 [Permalink]
     post = "/:year/:month/:title/"
