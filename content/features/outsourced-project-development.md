@@ -1,9 +1,9 @@
 ---
-title: Outsourced project development
+title: Hard question 3
 date: 2020-06-21T14:00:00.000+00:00
 headerTransparent: false
 rss_ignore: true
-description: "You give us a specification, we agree the price and the timescale, and then we deliver a working system back to you."
+description: "Blah blah blah"
 thumbnail: "https://source.unsplash.com/H0vKZjt2k1E/800x600"
 image: "https://source.unsplash.com/H0vKZjt2k1E/2000x1200"
 weight: 3

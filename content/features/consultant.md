@@ -1,9 +1,9 @@
 ---
-title: Consultant
+title: Hard Question 1
 date: 2020-06-21T14:00:00.000+00:00
 headerTransparent: false
 rss_ignore: true
-description: "We help you to create the right specification, design the system architecture, and evaluate the best solutions, to give you the confidence to go ahead."
+description: "Blah blah blah"
 thumbnail: "https://source.unsplash.com/stiZ70HiYac/800x600"
 image: "https://source.unsplash.com/stiZ70HiYac/2000x1200"
 weight: 1

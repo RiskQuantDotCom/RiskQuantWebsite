@@ -43,19 +43,14 @@ metaDataFormat = "yaml"
  
 # Main Menu
 [[menu.main]]
-    name = "The Imponderables Blog"
-    url = "/posts/"
-    weight = 1
-
-[[menu.main]]
-    name = "About us"
-    url = "/about"
-    weight = 2
-  
-[[menu.main]]
     name = "Contact us"
     url = "/contact/"
     weight = 3
+[[menu.main]]
+    name = "About us"
+    url = "/about/"
+    weight = 2
+
 
 # Footer Menu Primary
 [[menu.footer_primary]]
@@ -89,11 +84,6 @@ metaDataFormat = "yaml"
 
 # Footer Menu Secondary
 [[menu.footer_secondary]]
-    name = "Melbourne, AU" 
-    url = "/contact/"
-    weight = 1
-
-[[menu.footer_secondary]]
     name = "London, UK"
     url = "/contact/"
     weight = 2
@@ -101,6 +91,11 @@ metaDataFormat = "yaml"
     name = "Cambridge, USA"
     url = "/contact/"
     weight = 3
+[[menu.footer_secondary]]
+    name = "Corporate HQ, 5/171 Collins Street, Melbourne, VIC 3000, Australia"
+    weight = 4
+
+
 
 # Footer Menu Third
 [[menu.footer_third]]

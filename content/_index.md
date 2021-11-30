@@ -1,5 +1,5 @@
 ---
-title: Are you ready for the hardest cyber security questions...?
+title: Are you ready for the Board's hardest cyber security questions...?
 date: 2020-03-01T00:00:01+00:00
 headerTransparent: false
 sections:
@@ -13,8 +13,8 @@ sections:
     theme: base
     backgroundColorCustom: ''
   headings:
-    heading: "Are you ready for the hardest cyber security questions?"
-    text: "To be truly prepared,..."
+    heading: "Are you ready for the Board's hardest cyber security questions?"
+    text: "To be respected you need to be truly prepared and anticipate the questions you don't want to answer."
     headingColorCustom: ''
     subHeadingColorCustom: ''
     textColorCustom: '#405965'
@@ -33,10 +33,4 @@ sections:
     borderRadius: true
     shadow: false
     altText: "High performance"
-  buttons:
-  - button: 
-    url: "/about/"
-    text: Click here
-    external: true
-    buttonTheme: primary
 ---

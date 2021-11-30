@@ -1,9 +1,9 @@
 ---
-title: Integrated team member
+title: Hard Question 2
 date: 2020-06-21T14:00:00.000+00:00
 headerTransparent: false
 rss_ignore: true
-description: We work alongside your team to contribute our expertise and experience, helping you do more in less time, without hiring specialist staff.
+description: Blah blah blah.
 thumbnail: "https://source.unsplash.com/KOID4ns1Ii4/800x600"
 weight: 2
 ---
