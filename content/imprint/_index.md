@@ -17,9 +17,7 @@ RiskQuant Pty Ltd t/as Cyber Risk Quant.
 
 Australian Business Number: 35635909901
 
-Principal Place of Business: 171 Collins Street, Level 5, Melbourne, VIC 3000, Australia.
-
-Postal address: GPO XXXXX 
+Principal Place of Business: 5/171 Collins Street, Melbourne, VIC 3000, Australia.
 
 Tel: +61 3 7020 3350   
 Email: HereToHelp@CyberRiskQuant.com
