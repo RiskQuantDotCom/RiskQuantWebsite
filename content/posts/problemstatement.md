@@ -8,8 +8,3 @@ description: If you're going to have a fighting chance of being successful then 
 thumbnail: '/images/posts/mike-von-aaWaG-raMNw-unsplash-800.jpg'
 image: 'images/posts/mike-von-aaWaG-raMNw-unsplash-800.jpg'
 ---
-foo
-bar
-
-
-

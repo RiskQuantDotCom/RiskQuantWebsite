@@ -43,15 +43,17 @@ metaDataFormat = "yaml"
  
 # Main Menu
 [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+[[menu.main]]
     name = "Contact us"
     url = "/contact/"
-    weight = 3
+    weight = 2 
 [[menu.main]]
     name = "About us"
     url = "/about/"
-    weight = 2
-
-
+    weight = 3
 # Footer Menu Primary
 [[menu.footer_primary]]
 	name = "Home"
@@ -62,53 +64,20 @@ metaDataFormat = "yaml"
     url = "sitemap.xml"
     weight = 2
 [[menu.footer_primary]]
-    name = "Privacy policy"
-    url = "/privacy/"
-    weight = 3
-[[menu.footer_primary]]
-    name = "Cookie policy"
-    url = "/cookie/"
-    weight = 4
-[[menu.footer_primary]]
-    name = "Terms of Use"
-    url = "/tos/"
-    weight = 5
-[[menu.footer_primary]]
-    name = "Code of Ethical Responsibility"
-    url = "/ethics/"
-    weight = 6                
-[[menu.footer_primary]]
     name = "Imprint"
     url = "/imprint/"
-    weight = 7
-
+    weight = 3
+[[menu.footer_primary]]
+    name = "Policies"
+    url = "/policies/"
+    weight = 4
 # Footer Menu Secondary
 [[menu.footer_secondary]]
-    name = "London, UK"
-    url = "/contact/"
-    weight = 2
-[[menu.footer_secondary]]
-    name = "Cambridge, USA"
-    url = "/contact/"
-    weight = 3
-[[menu.footer_secondary]]
-    name = "Corporate HQ, 5/171 Collins Street, Melbourne, VIC 3000, Australia"
-    weight = 4
-
-
-
-# Footer Menu Third
-[[menu.footer_third]]
-    name = "Privacy policy"
-    url = "/privacy/"
+    name = "Melbourne, Australia"
+    url = "https://g.page/CyberRiskQuant?share"
     weight = 1
+[[menu.footer_secondary]]
+    name = "London, UK"
+    url = "https://goo.gl/maps/8t61DzgYSFNDXAvY9"
+    weight = 2 
 
-[[menu.footer_third]]
-    name = "Cookie policy"
-    url = "/cookie/"
-    weight = 2
-
-[[menu.footer_third]]
-    name = "Terms of use"
-    url = "/tos/"
-    weight = 3

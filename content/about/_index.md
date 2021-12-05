@@ -10,11 +10,16 @@ sections:
   options:
     paddingTop: true
     paddingBottom: true
-    theme: base-offset
-  align: right
-  heading: We assure you of our best service and intentions at all times. We want you to know that we are on your side, cheering for you, and when you do well then it is clearly to your and our advantage.
-  description: >
-  image: /images/thinkingcap.png
+    theme: primary_text
+  align: left
+  heading: 'Remember this: anticipation is the ultimate super power. Losers react; leaders anticipate.' 
+  description: fhfhfhf
+  image: /images/man2.jpg
+  overlap: false
+  border: false
+  borderRadius: true
+  shadow: true
+  altText: "A guy looks at the laptop screen, screams excitedly and raises his fists in a victory gesture"
 - template: content
   align: center # "left", "right", "center" - Align the content section
   columns: 8 # 6 - 12 - Set the width of the content section based on a 12 column grid

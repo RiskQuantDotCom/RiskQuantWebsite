@@ -21,5 +21,3 @@ Principal Place of Business: 5/171 Collins Street, Melbourne, VIC 3000, Australi
 
 Tel: +61 3 7020 3350   
 Email: HereToHelp@CyberRiskQuant.com
-
-(RiskQuant is a portmanteau, a combination of the words Risk + Quantified = RiskQuant). Now you know 😊.  

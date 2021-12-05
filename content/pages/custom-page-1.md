@@ -7,20 +7,23 @@ sections:
   options:
     paddingTop: false
     paddingBottom: false
-    theme: primary
-  alignHorizontal: right
-  alignVertical: middle
-  height: 600px
-  background:
-    backgroundImage: "/images/man2.jpg"
-    opacity: 1
-    monotone: false
+    borderTop: false
+    borderBottom: false
+    classes: ''
+    theme: primary 
+    backgroundColorCustom: '' 
   headings:
-    heading: "How is the work you do, and the budget you spend making a difference?"
-    subHeading: 
-- template: grid
-  options:
-    theme: base
+    heading: '"How is the work you do, and the budget you spend making a difference?"'
+    subHeading: Imagine being blind-sided by the Board, the CEO, or your boss with a question like this. 
+  image:
+    image: "images/man3.jpg"
+    overlap: false
+    border: false
+    borderRadius: true
+    shadow: true
+    altText: "A young businessman experiencing stress during a late night at work"
+
+
   heading: "Imagine being blind-sided in the midst of a critical meeting with a question like one of these:"
   subHeading: ''
   contentType: features

@@ -1,5 +1,5 @@
 ---
-title: 'The Imponderables Blog - Our thoughts about the most challenging aspects of cyber security risk.'
+title: Our thoughts about the most challenging aspects of cyber security risk.
 lead: Our blog of insights and news
 author: I am author, creator and accountablePerson of blog post structure data. I come from config.toml if not specified here
 date: I am copyrightYear, dateCreated and datePublished of blog post structure data
@@ -13,5 +13,14 @@ tags:
 keywords:
   - ""
   - ""
+layout: custom
+headerTransparent: false
 rss_ignore: false
+outputs: 
+- html
+sections:
+- template: content
+  align: center # "left", "right", "center" - Align the content section
+  columns: 8 # 6 - 12 - Set the width of the content section based on a 12 column grid
 ---
+## Got questions? Need help?
