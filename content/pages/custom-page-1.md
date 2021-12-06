@@ -14,9 +14,9 @@ sections:
     backgroundColorCustom: '' 
   headings:
     heading: '"How is the work you do, and the budget you spend making a difference?"'
-    subHeading: Imagine being blind-sided by the Board, the CEO, or your boss with a question like this. 
+    subHeading: Imagine being blind-sided by the Board, the CEO, or your CFO with a question like this. 
   image:
-    image: "images/man3.jpg"
+    image: "images/man2.jpg"
     overlap: false
     border: false
     borderRadius: true
@@ -44,6 +44,37 @@ sections:
     showTitle: true
     showTitleLink: true
     showDate: false
+
+- template: grid
+  options:
+    theme: base
+  heading: "Executives are now demanding evidence that cyber security budgets make a difference. What are you doing to get that evidence?"
+  subHeading: ''
+  contentType: features
+  sortBy: weight
+  limit: 3
+  columns: 4
+  columnsMobile: 12
+  marginBottom: 2
+  align: left
+  card:
+    partial: card
+    border: true
+    padding: true
+    shadow: true
+    showThumbnail: true
+    showThumbnailLink: true
+    showFooter: true
+    showTitle: true
+    showTitleLink: true
+    showDate: false
+
+
+
+
+
+
+
 - template: info
   options:
     paddingTop: true

@@ -27,7 +27,7 @@ sections:
     monotone: false
     opacity: ''
   image:
-    image: "images/man3.jpg"
+    image: "images/man2.jpg"
     overlap: false
     border: false
     borderRadius: true
