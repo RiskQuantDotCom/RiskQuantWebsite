@@ -4,8 +4,8 @@ date: 2020-06-21T14:00:00.000+00:00
 headerTransparent: false
 rss_ignore: true
 description: "Blah blah blah"
-thumbnail: "https://source.unsplash.com/H0vKZjt2k1E/800x600"
-image: "https://source.unsplash.com/H0vKZjt2k1E/2000x1200"
+thumbnail: "images/board3.jpg"
+image: "images/board3.jpg"
 weight: 3
 ---
 
