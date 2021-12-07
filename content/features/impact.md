@@ -1,9 +1,9 @@
 ---
-title: Hard Question 2
+title: Transparency about results  
 date: 2020-06-21T14:00:00.000+00:00
 headerTransparent: false
 rss_ignore: true
-description: Blah blah blah.
+description: "Are you achieving what you should be achieving, to what extent, and for whom?" 
 thumbnail: "images/board2.jpg"
 weight: 2
 ---

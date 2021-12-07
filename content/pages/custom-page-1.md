@@ -48,7 +48,7 @@ sections:
 - template: grid
   options:
     theme: base
-  heading: "Executives are now demanding evidence that cyber security budgets make a difference. What are you doing to get that evidence?"
+  heading: "Executives are now demanding evidence that cyber security budgets make a difference, and that performance is accountable, transparent and of business value. What are you doing to get that evidence?"
   subHeading: ''
   contentType: features
   sortBy: weight

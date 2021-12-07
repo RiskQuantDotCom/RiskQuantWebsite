@@ -1,9 +1,9 @@
 ---
-title: Hard Question 1
+title: Accountability 
 date: 2020-06-21T14:00:00.000+00:00
 headerTransparent: false
 rss_ignore: true
-description: "Blah blah blah"
+description: "Are you doing what you should be doing, with the right quality, and at appropriate cost levels?"
 thumbnail: "/images/board1.jpg"
 image: "/images/board1.jpg"
 weight: 1
