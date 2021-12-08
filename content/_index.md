@@ -35,8 +35,8 @@ sections:
     altText: "A young businessman experiencing stress during a late night at work"
   buttons:
    - button:
-     url: "/custom-page-1/"
+     url: "/be-prepared/"
      text: Be prepared. Learn more.
-     external: true
+     external: false 
      buttonTheme: primary
 ---

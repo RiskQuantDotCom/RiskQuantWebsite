@@ -1,6 +1,6 @@
 ---
-title: Our thoughts about the most challenging aspects of cyber security risk.
-lead: Our blog of insights and news
+title: Measure like you mean it! Our blog about the most challenging aspects of cyber security performance.
+lead: 
 author: I am author, creator and accountablePerson of blog post structure data. I come from config.toml if not specified here
 date: I am copyrightYear, dateCreated and datePublished of blog post structure data
 lastmod: I am dateModified of blog post structure data. I am same as "date" if not specified. 

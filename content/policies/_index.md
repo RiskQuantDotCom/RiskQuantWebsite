@@ -11,11 +11,12 @@ sections:
   align: center # "left", "right", "center" - Align the content section
   columns: 8 # 6 - 12 - Set the width of the content section based on a 12 column grid
 ---
-### At Cyber Risk Quant we are committed to being open and transparent with everyone we encounter. One way we do this is through our Policies and Terms of Use. 
+### At Cyber Risk Quant we are committed to being open and transparent with everyone we encounter. One way we do this is through our Policies, Terms of Use and Code of Ethical Responsibility. 
 
-#### Privacy Policy   
+#### [Privacy Policy](/privacy)   
     
-#### Cookie Policy
+#### [Cookie Policy](/cookie)
 
-#### Terms of Use
+#### [Terms of Use](/tos)
 
+#### [Code of Ethical Responsibility](/ethics)

@@ -12,9 +12,9 @@ sections:
     paddingBottom: true
     theme: primary_text
   align: left
-  heading: 'Remember this: anticipation is the ultimate super power. Losers react; leaders anticipate.' 
-  description: fhfhfhf
-  image: /images/man2.jpg
+  heading: 'We are a challenger, in the sense that we challenge you to do better, to push your thinking and to provide you with a new and different way to see effective and sustainable cyber security.' 
+  description: 
+  image: /images/man3.jpg
   overlap: false
   border: false
   borderRadius: true

@@ -1,6 +1,6 @@
 ---
 title: Hardest questions
-url: "/custom-page-1"
+url: "/be-prepared"
 date: 2020-03-01T04:52:18.000+00:00
 sections:
 - template: hero
@@ -10,45 +10,33 @@ sections:
     borderTop: false
     borderBottom: false
     classes: ''
-    theme: primary 
+    theme: base  
     backgroundColorCustom: '' 
   headings:
     heading: '"How is the work you do, and the budget you spend making a difference?"'
-    subHeading: Imagine being blind-sided by the Board, the CEO, or your CFO with a question like this. 
+    text: Executives are now demanding that cyber security performance is accountable, transparent and of business value. What are you doing to get that evidence? 
   image:
-    image: "images/man2.jpg"
+    image: "/images/man.jpg"
     overlap: false
     border: false
     borderRadius: true
     shadow: true
     altText: "A young businessman experiencing stress during a late night at work"
-
-
-  heading: "Imagine being blind-sided in the midst of a critical meeting with a question like one of these:"
-  subHeading: ''
-  contentType: features
-  sortBy: weight
-  limit: 3
-  columns: 4
-  columnsMobile: 12
-  marginBottom: 2
-  align: left
-  card:
-    partial: card
-    border: true
-    padding: true
-    shadow: true
-    showThumbnail: true
-    showThumbnailLink: true
-    showFooter: true
-    showTitle: true
-    showTitleLink: true
-    showDate: false
-
+  buttons:
+   - button:
+     url: "/be-prepared/"
+     text: CTA. Learn more.
+     external: false
+     buttonTheme: primary
+   - button:
+     url: "/be-prepared/"
+     text: Lets talk.
+     external: false
+     buttonTheme: primary
 - template: grid
   options:
     theme: base
-  heading: "Executives are now demanding evidence that cyber security budgets make a difference, and that performance is accountable, transparent and of business value. What are you doing to get that evidence?"
+  heading: "What are you doing to get that evidence?"
   subHeading: ''
   contentType: features
   sortBy: weight
@@ -68,13 +56,6 @@ sections:
     showTitle: true
     showTitleLink: true
     showDate: false
-
-
-
-
-
-
-
 - template: info
   options:
     paddingTop: true
