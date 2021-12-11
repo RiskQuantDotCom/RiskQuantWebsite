@@ -22,7 +22,7 @@ sections:
   alignHorizontal: left
   alignVertical: middle
   background:
-    backgroundImage: ''
+    backgroundImage: '' 
     backgroundColorCustom: ''
     monotone: false
     opacity: ''
