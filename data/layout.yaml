@@ -6,10 +6,10 @@ logo:
   showLogoTextOnMobile: true
   showLogoImageOnDesktop: true
   showLogoImageOnMobile: true
-  logoDesktop: "images/logo/crqsymbol.jpg"
-  logoDesktopDarkMode: "images/logo/crqsymbol.jpg"
-  logoMobile: "images/logo/crqsymbol.jpg"
-  logoMobileDarkMode: "images/logo/crqsymbol.jpg"
+  logoDesktop: "images/crqlogo.png"
+  logoDesktopDarkMode: "images/crqlogo.png"
+  logoMobile: "images/crqlogo.png"
+  logoMobileDarkMode: "images/crqlogo.png"
   logoDesktopHeight: 75
   logoMobileHeight: 50
 
