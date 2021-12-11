@@ -13,8 +13,8 @@ sections:
     theme: base  
     backgroundColorCustom: '' 
   headings:
-    heading: '"How is the work you do, and the budget you spend making a difference?"'
-    text: Executives are now demanding that cyber security performance is accountable, transparent and of business value. What are you doing to get that evidence? 
+    heading: '"How is the work you do, and the budget you spend making a difference?"  - Financial Services CEO'
+    text: Executives are now demanding that cyber security performance is accountable, transparent and of business value. 
   image:
     image: "/images/man.jpg"
     overlap: false
@@ -25,18 +25,13 @@ sections:
   buttons:
    - button:
      url: "/be-prepared/"
-     text: CTA. Learn more.
-     external: false
-     buttonTheme: primary
-   - button:
-     url: "/be-prepared/"
-     text: Lets talk.
+     text: What are you doing to get that evidence?
      external: false
      buttonTheme: primary
 - template: grid
   options:
     theme: base
-  heading: "What are you doing to get that evidence?"
+  heading: "Can you credibly answer these questions? Can you evidence it?"
   subHeading: ''
   contentType: features
   sortBy: weight

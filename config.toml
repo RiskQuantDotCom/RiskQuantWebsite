@@ -73,11 +73,11 @@ metaDataFormat = "yaml"
     weight = 4
 # Footer Menu Secondary
 [[menu.footer_secondary]]
-    name = "Melbourne, Australia"
+    name = "5/171 Collins Street, Melbourne, VIC 3000, Australia"
     url = "https://g.page/CyberRiskQuant?share"
     weight = 1
 [[menu.footer_secondary]]
-    name = "London, UK"
+    name = "30 St Mary Axe, London, EC3A 8BF, UK"
     url = "https://goo.gl/maps/8t61DzgYSFNDXAvY9"
     weight = 2 
 
