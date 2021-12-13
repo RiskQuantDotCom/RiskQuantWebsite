@@ -31,9 +31,10 @@ sections:
      buttonTheme: primary
 - template: grid
   options:
-    theme: base
+   borderTop: true
+   theme: base
   heading: "The cyber security performance dialogue starts with these questions. Can you credibly answer them?"
-  subHeading: "Can you credibly answer them?" 
+  subHeading: '' 
   contentType: features
   sortBy: weight
   limit: 3
@@ -42,17 +43,16 @@ sections:
   marginBottom: 2
   align: left
   card:
-    partial: card
-    border: true
-    padding: true
-    shadow: true
-    showThumbnail: true
-    showThumbnailLink: true
-    showFooter: true
-    showTitle: true
-    showTitleLink: true
-    showDate: false
-
+   partial: card
+   border: true
+   padding: true
+   shadow: true
+   showThumbnail: true
+   showThumbnailLink: false 
+   showFooter: true
+   showTitle: true
+   showTitleLink: false 
+   showDate: false
 - template: cta
   options:
     theme: primary
@@ -64,5 +64,4 @@ sections:
      text: '' 
      external: false
      buttonTheme: primary
-
 ---
