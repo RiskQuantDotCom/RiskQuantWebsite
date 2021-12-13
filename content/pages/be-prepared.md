@@ -26,14 +26,14 @@ sections:
   buttons:
    - button:
      url: "/contact/"
-     text: What are you doing to get that evidence?
+     text: How's your performance? 
      external: false
      buttonTheme: primary
 - template: grid
   options:
     theme: base
-  heading: "Can you credibly answer these questions? Can you evidence it?"
-  subHeading: ''
+  heading: "The cyber security performance dialogue starts with these questions. Can you credibly answer them?"
+  subHeading: "Can you credibly answer them?" 
   contentType: features
   sortBy: weight
   limit: 3
@@ -52,4 +52,17 @@ sections:
     showTitle: true
     showTitleLink: true
     showDate: false
+
+- template: cta
+  options:
+    theme: primary
+  heading: '"It is not our job to understand the value cyber security adds. It is your job to demonstrate it, to make it real every single day."'
+  description: ''  
+  buttons:
+   - button: 
+     url: ""
+     text: '' 
+     external: false
+     buttonTheme: primary
+
 ---

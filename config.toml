@@ -80,4 +80,7 @@ metaDataFormat = "yaml"
     name = "30 St Mary Axe, London, EC3A 8BF, UK"
     url = "https://goo.gl/maps/8t61DzgYSFNDXAvY9"
     weight = 2 
-
+[[menu.footer_secondary]]
+    name = "234 5th Ave, New York, NY 10001, United States"
+    url = "https://goo.gl/maps/ycPSbP8bNJ9oQgdx8"
+    weight = 3
