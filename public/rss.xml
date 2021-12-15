@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Are you ready for the hardest cyber security questions...? on Cyber Risk Quant</title>
+    <title>Are you ready for the Board&#39;s toughest cyber security questions...? on Cyber Risk Quant</title>
     <link>https://CyberRiskQuant.com/</link>
-    <description>Recent content in Are you ready for the hardest cyber security questions...? on Cyber Risk Quant</description>
+    <description>Recent content in Are you ready for the Board&#39;s toughest cyber security questions...? on Cyber Risk Quant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>DAH@CyberRiskQuant.com (Duncan Hart)</managingEditor>
@@ -15,7 +15,7 @@
       <pubDate>Tue, 29 Dec 2020 10:26:40 +1000</pubDate>
       <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
       <guid>https://CyberRiskQuant.com/posts/problemstatement/</guid>
-      <description>foo bar</description>
+      <description></description>
     </item>
     
     <item>
@@ -43,6 +43,25 @@
       <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
       <guid>https://CyberRiskQuant.com/posts/apples-to-apples/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Hardest questions</title>
+      <link>https://CyberRiskQuant.com/be-prepared/</link>
+      <pubDate>Sun, 01 Mar 2020 04:52:18 +0000</pubDate>
+      <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
+      <guid>https://CyberRiskQuant.com/be-prepared/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://CyberRiskQuant.com/about/duncanhart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
+      <guid>https://CyberRiskQuant.com/about/duncanhart/</guid>
+      <description>Duncan Hart is the Founder and Managing Partner of Cyber Risk Quant, a niche specialist in cyber security strategy, performance and risk.
+With 25 years experience in technology, information and cyber security industry, including 10 years based in Asia Pacific, Europe and North America, Duncan has been responsible for handling some of the most challenging cyber security issues in both the private and public sectors. Prior to Cyber Risk Quant, Duncan spent several years with BHP, Bank of England, Vodafone Group and QinetiQ.</description>
     </item>
     
   </channel>
