@@ -73,10 +73,10 @@ metaDataFormat = "yaml"
     url = "https://g.page/CyberRiskQuant?share"
     weight = 1
 [[menu.footer_secondary]]
-    name = "30 St Mary Axe, London, EC3A 8BF, UK"
-    url = "https://goo.gl/maps/8t61DzgYSFNDXAvY9"
+    name = "+61 3 7020 3350"
+    url = "tel:+6137020350"
     weight = 2 
 [[menu.footer_secondary]]
-    name = "234 5th Ave, New York, NY 10001, United States"
-    url = "https://goo.gl/maps/ycPSbP8bNJ9oQgdx8"
+    name = "HereToHelp@CyberRiskQuant.com"
+    url = "mailto:HereToHelp@CyberRiskQuant.com"
     weight = 3
