@@ -40,6 +40,13 @@ metaDataFormat = "yaml"
     category = "categories"
     work =  "works"
     author = "authors"
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+
  
 # Main Menu
 [[menu.main]]
