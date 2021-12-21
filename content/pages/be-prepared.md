@@ -33,7 +33,7 @@ sections:
   options:
    borderTop: true
    theme: base
-  heading: "The cyber security performance dialogue starts with these questions. Can you credibly answer them?"
+  heading: "We give you the means to confidently measure your cyber security so you can clearly communicate with your senior leadership and the Board."
   subHeading: '' 
   contentType: features
   sortBy: weight
