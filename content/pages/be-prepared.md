@@ -33,7 +33,7 @@ sections:
   options:
    borderTop: true
    theme: base
-  heading: "We give you the means to confidently measure your cyber security so you can clearly communicate with your senior leadership and the Board."
+  heading: "We give you the means to meaningfully measure your cyber security performance in solving problems and addressing risk, so you can clearly communicate the state of play with your leadership and Board."
   subHeading: '' 
   contentType: features
   sortBy: weight
