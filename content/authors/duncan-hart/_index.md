@@ -1,7 +1,7 @@
 ---
 title: 'Duncan Hart' 
 name: 'Duncan Hart'
-image: 'images/author/duncanhart.jpg' 
+image: '/images/crqlogo2.png' 
 rss_ignore: true
 outputs:
 - html
