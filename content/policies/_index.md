@@ -13,10 +13,10 @@ sections:
 ---
 ### At Cyber Risk Quant we are committed to being open and transparent with everyone we encounter. One way we do this is through our Policies, Terms of Use and Code of Ethical Responsibility. 
 
-#### [Privacy Policy](/privacy)   
+#### [Privacy Policy](/policies/privacy)   
     
-#### [Cookie Policy](/cookie)
+#### [Cookie Policy](/policies/cookie)
 
-#### [Terms of Use](/tos)
+#### [Terms of Use](/policies/tos)
 
-#### [Code of Ethical Responsibility](/ethics)
+#### [Code of Ethical Responsibility](/policies/ethics)

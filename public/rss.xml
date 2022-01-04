@@ -10,39 +10,24 @@
     <webMaster>DAH@CyberRiskQuant.com (Duncan Hart)</webMaster>
     <lastBuildDate>Sun, 01 Mar 2020 00:00:01 +0000</lastBuildDate><atom:link href="https://CyberRiskQuant.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Do you have the right problem statement?</title>
+      <title>What are the purposes of cyber security performance measurement?</title>
+      <link>https://CyberRiskQuant.com/posts/purposeperformance/</link>
+      <pubDate>Fri, 01 Jan 2021 10:26:40 +1000</pubDate>
+      <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
+      <guid>https://CyberRiskQuant.com/posts/purposeperformance/</guid>
+      <description>The purpose of cyber security measurement is severalfold. We know that there are a number of important purposes for cyber security performance measurement that serve the following:
+Accountability – are you doing what should be doing, at the levels you should, with the right quality.
+Transparency about results – are you achieving what you should be achieving, to what extent, and for whom?
+Value for money – are you achieving results in the most cost-effective manner?</description>
+    </item>
+    
+    <item>
+      <title>What constitutes cyber security performance?</title>
       <link>https://CyberRiskQuant.com/posts/problemstatement/</link>
       <pubDate>Tue, 29 Dec 2020 10:26:40 +1000</pubDate>
       <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
       <guid>https://CyberRiskQuant.com/posts/problemstatement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>If cyber security is the answer, then what is the question?</title>
-      <link>https://CyberRiskQuant.com/posts/cyber-risk-managed/</link>
-      <pubDate>Tue, 29 Dec 2020 10:24:47 +1000</pubDate>
-      <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
-      <guid>https://CyberRiskQuant.com/posts/cyber-risk-managed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cyber Risk Dominates</title>
-      <link>https://CyberRiskQuant.com/posts/cyber-risk-dominates/</link>
-      <pubDate>Sun, 20 Dec 2020 09:49:03 +1000</pubDate>
-      <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
-      <guid>https://CyberRiskQuant.com/posts/cyber-risk-dominates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apples to Apples - Comparing Cyber Risks</title>
-      <link>https://CyberRiskQuant.com/posts/apples-to-apples/</link>
-      <pubDate>Sun, 20 Dec 2020 09:38:03 +1000</pubDate>
-      <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
-      <guid>https://CyberRiskQuant.com/posts/apples-to-apples/</guid>
-      <description></description>
+      <description>If you&amp;rsquo;re going to have a fighting chance of being successful then you need to start with &amp;lsquo;what is performance?&amp;rsquo; &amp;lsquo;Performance&amp;rsquo; is often used as an inclusive term for the routine measurement of inputs, activities, outputs, outcomes and/or impacts of an intervention, for example a project, program, collection of activities or a policy. The emphasis here is on regularly collecting a set of data to determine where improvements can be made.</description>
     </item>
     
     <item>
