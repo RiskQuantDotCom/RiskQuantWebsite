@@ -1,5 +1,5 @@
 ---
-title: Are you achieving what you should be achieving, and to what extent?  
+title: '"Which of the possible mitigations has the greatest effect on reducing the risk exposure?"'  
 date: 2020-06-21T14:00:00.000+00:00
 headerTransparent: false
 rss_ignore: true

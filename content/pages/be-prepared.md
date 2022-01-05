@@ -14,7 +14,7 @@ sections:
   background:
    backgroundImage: '' 
   headings:
-    heading: '"How is the work you do, and the budget you spend making a difference?"'
+    heading: '"What is the probability of achieving our business goals given the cyber security risks and uncertainty?"'
     text: Executives are now demanding that cyber security performance is accountable, transparent and of business value. 
   image:
     image: "/images/man.jpg"
@@ -29,15 +29,14 @@ sections:
      text: How's your performance? 
      external: false
      buttonTheme: primary
+
 - template: grid
   options:
    borderTop: true
    theme: base
-  heading: "We give you the means to meaningfully measure your cyber security performance in solving problems and addressing risk, so you can clearly communicate the state of play with your leadership and Board."
-  subHeading: '' 
   contentType: features
   sortBy: weight
-  limit: 3
+  limit: 6
   columns: 4
   columnsMobile: 12
   marginBottom: 2

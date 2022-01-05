@@ -1,5 +1,5 @@
 ---
-title: Are you doing what you should be doing, with the right quality? 
+title: '"How much does the company need to reserve for these cyber security risks?"' 
 date: 2020-03-01T00:00:00.000+00:00
 headerTransparent: false
 rss_ignore: true

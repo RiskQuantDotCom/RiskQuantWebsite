@@ -18,7 +18,7 @@ sections:
     backgroundColorCustom: ''
   headings:
     heading: "Got questions? Need help?"
-    text: "We're happy to hear from you, just call at your convenience, or drop us an email. We are open, always accessible and want direct communication with you. The place to start is at the top, with Duncan Hart: Duncan@CyberRiskQuant.com or call +1 (212) 2014-118."
+    text: "We are open, always accessible and want direct communication with you. The place to start is at the top, with Duncan Hart - Duncan@CyberRiskQuant.com or call direct +1 (212) 2014-118."
     headingColorCustom: ''
     subHeadingColorCustom: ''
     textColorCustom: '#405965'
@@ -37,6 +37,12 @@ sections:
     borderRadius: true
     shadow: true
     altText: "Duncan Hart"
+  buttons:
+   - button:
+     url: "/about/"
+     text: Learn more about us 
+     external: false 
+     buttonTheme: primary
 - template: content
   align: center # "left", "right", "center" - Align the content section
 ---

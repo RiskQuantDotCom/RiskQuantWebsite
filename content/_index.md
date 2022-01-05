@@ -1,5 +1,5 @@
 ---
-title: Are you ready for the Board's toughest cyber security questions...?
+title: Are you ready for the Board's toughest cyber security risk questions...?
 date: 2020-03-01T00:00:01+00:00
 headerTransparent: false
 sections:
@@ -13,7 +13,7 @@ sections:
     theme: base
     backgroundColorCustom: ''
   headings:
-    heading: "Are you ready for the Board's toughest cyber security questions?"
+    heading: "Are you ready for the Board's toughest cyber security risk questions?"
     text: "To be respected, and acknowledged as a leader, you need to be truly prepared and anticipate the questions you don't want to answer."
     headingColorCustom: ''
     subHeadingColorCustom: ''
