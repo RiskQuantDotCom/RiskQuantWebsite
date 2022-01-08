@@ -7,7 +7,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://CyberRiskQuant.com/features/accountability/</loc>
+    <loc>https://CyberRiskQuant.com/features/cyberriskreserves/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -22,7 +22,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://CyberRiskQuant.com/features/transparency/</loc>
+    <loc>https://CyberRiskQuant.com/features/cyberriskexposure/</loc>
     <lastmod>2020-06-21T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -37,13 +37,28 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://CyberRiskQuant.com/features/value/</loc>
+    <loc>https://CyberRiskQuant.com/features/fattailcyberrisk/</loc>
     <lastmod>2020-06-21T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://CyberRiskQuant.com/partners/forestry/</loc>
     <lastmod>2018-11-28T05:15:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://CyberRiskQuant.com/features/cyberriskvolatility/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://CyberRiskQuant.com/features/correlatedcyberrisk/</loc>
+    <lastmod>2020-06-21T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://CyberRiskQuant.com/features/corporatecyberrisk/</loc>
+    <lastmod>2020-06-21T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -128,6 +143,16 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://CyberRiskQuant.com/about/</loc>
+    <lastmod>2020-03-01T00:00:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://CyberRiskQuant.com/about/about-us/</loc>
+    <lastmod>2020-03-01T00:00:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://CyberRiskQuant.com/pages/about-us/</loc>
     <lastmod>2020-03-01T00:00:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

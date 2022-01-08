@@ -13,8 +13,8 @@ sections:
     theme: base
     backgroundColorCustom: ''
   headings:
-    heading: "Are you ready for the Board's toughest cyber security risk questions?"
-    text: "To be respected, and acknowledged as a leader, you need to be truly prepared and anticipate the questions you don't want to answer."
+    heading: "Are you ready for the Board's toughest cyber risk questions?"
+    text: "To be respected, and acknowledged as a leader, you need to be truly prepared and anticipate the cyber risk questions you don't want to answer."
     headingColorCustom: ''
     subHeadingColorCustom: ''
     textColorCustom: '#405965'

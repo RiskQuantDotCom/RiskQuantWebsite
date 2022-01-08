@@ -52,13 +52,17 @@ metaDataFormat = "yaml"
     url = "/posts/"
     weight = 1
 [[menu.main]]
+    name = "Case Studies"
+    url = "/case-studies/"
+    weight = 2
+[[menu.main]]
     name = "Contact us"
     url = "/contact/"
-    weight = 2 
+    weight = 3 
 [[menu.main]]
     name = "About us"
     url = "/about/"
-    weight = 3
+    weight = 4
 # Footer Menu Primary
 [[menu.footer_primary]]
 	name = "Home"

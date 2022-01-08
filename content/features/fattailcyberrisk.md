@@ -1,5 +1,5 @@
 ---
-title: '"How fat is the tail of cyber security risk distribution and can it be insured or hedged?"' 
+title: '"How fat is the tail of our cyber risk distribution and can it be insured against?"' 
 date: 2020-06-21T14:00:00.000+00:00
 headerTransparent: false
 rss_ignore: true
