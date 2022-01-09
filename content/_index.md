@@ -36,7 +36,7 @@ sections:
   buttons:
    - button:
      url: "/be-prepared/"
-     text: Be prepared. Learn more.
+     text: Always be prepared. Learn more.
      external: false 
      buttonTheme: primary
 ---
