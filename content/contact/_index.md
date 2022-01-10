@@ -38,12 +38,7 @@ sections:
     shadow: true
     altText: "Duncan Hart"
   buttons:
-   - button:
-     url: mailto:Duncan@CyberRiskQuant.com
-     text: Duncan@CyberRiskQuant.com 
-     external: false 
-     buttonTheme: primary
-   - button:
+   - button: 
      url: "https://cal.com/duncanhart"
      text: Schedule a meeting
      external: false
