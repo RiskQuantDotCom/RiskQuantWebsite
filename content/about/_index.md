@@ -57,10 +57,6 @@ sections:
     showDescription: false
     showTitle: false
 
-
-
-
-
 - template: grid
   options:
     theme: base
@@ -86,4 +82,4 @@ sections:
     showDate: false
 ---
 
-Blah blah blah
+
