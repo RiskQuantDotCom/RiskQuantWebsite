@@ -1,5 +1,5 @@
 ---
-title: Are you ready for the Board's toughest cyber security risk questions...?
+title: Turning cyber security data into information you can use.
 date: 2020-03-01T00:00:01+00:00
 headerTransparent: false
 sections:

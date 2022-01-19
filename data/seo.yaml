@@ -13,15 +13,5 @@ homepage:
     meta_twitter_creator: "@CyberRiskQuant"
 social:
   - title: "Twitter"
-    fa_icon: "fab fa-twitter" 
-    url: "https://www.twitter.com/@CyberRiskQuant"
-  - title: "LinkedIn"
-    fa_icon: "fab fa-linkedin"
-    url: "https://www.linkedin.com/company/CyberRiskQuant"
-  - title: "MicroBlog.CyberRiskQuant"
-    fa_icon: "fab fa-microblog"
-    url: "https://microblog.cyberriskquant.com"
-  - title: "RSS feed"
-    fa_icon: "fas fa-rss-square"
-    url: "https://cyberriskquant.com/rss.xml"  
-  
+    fa_icon: "fab fa-github" 
+    url: "https://github.com/cyberriskquant/heretohelp"

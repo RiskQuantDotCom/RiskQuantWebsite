@@ -55,7 +55,7 @@ sections:
 - template: cta
   options:
     theme: primary
-  heading: '"It is not our job to understand the value cyber security adds. It is your job to demonstrate it, to make it real every single day."'
+  heading: "Turning cyber security risk data into information you can use now."
   description: ''  
   buttons:
    - button: 

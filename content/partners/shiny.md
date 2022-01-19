@@ -1,7 +1,7 @@
 ---
-title: Netlify
+title: Shiny
 date: 2018-11-28T05:15:34.000+00:00
 weight: 2
 rss_ignore: true
-thumbnail: images/partners/wiselawowl.png
+thumbnail: images/shiny.png
 ---

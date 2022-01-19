@@ -18,12 +18,12 @@ header:
   headerFixed: true
 
 footer:
-  title: "We support you in effectively understanding your cyber security risk and uncertainty. From simple risk assessments, complex decision support to comprehensive analysis of mitigation options, we bring our expertise and confidence to your complex cyber security risks."
+  title: "Turning cyber security risk data into information you can use now."
   copyrightText: >
-      Got questions? Need help? HereToHelp@CyberRiskQuant.com
-  copyrightLink: "mailto:HereToHelp@CyberRiskQuant.com?subject=Please help!"
+      If you have questions, need help or would suggest improvements, please create an issue on our Github repo. 
+  copyrightLink: "https://github.com/cyberriskquant/heretohelp"
   copyrightShow: true
-  showSocialMediaIcons: false 
+  showSocialMediaIcons: true 
   footerMenuPrimaryHeading: "Site"
   showPrimaryFooterMenu: true
   footerMenuSecondaryHeading: "Cyber Risk Quant"

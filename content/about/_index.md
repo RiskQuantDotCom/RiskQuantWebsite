@@ -36,6 +36,31 @@ sections:
     borderRadius: true
     shadow: true
     altText: "A young businessman experiencing stress during a late night at work"
+
+- template: content
+  align: center # "left", "right", "center" - Align the content section
+
+- template: grid
+  options:
+    paddingTop: false
+    theme: base
+  heading: 'We build with the tools we love'
+  contentType: partners
+  sortBy: weight
+  align: center
+  columns: 2
+  columnsMobile: 10 
+  card:
+    partial: card-image-only
+    shadow: false
+    border: false
+    showDescription: false
+    showTitle: false
+
+
+
+
+
 - template: grid
   options:
     theme: base
@@ -60,3 +85,5 @@ sections:
     showTitleLink: false 
     showDate: false
 ---
+
+Blah blah blah
