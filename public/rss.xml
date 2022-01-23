@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Are you ready for the Board&#39;s toughest cyber security risk questions...? on Cyber Risk Quant</title>
+    <title>Turning cyber security data into information you can use. on Cyber Risk Quant</title>
     <link>https://CyberRiskQuant.com/</link>
-    <description>Recent content in Are you ready for the Board&#39;s toughest cyber security risk questions...? on Cyber Risk Quant</description>
+    <description>Recent content in Turning cyber security data into information you can use. on Cyber Risk Quant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>DAH@CyberRiskQuant.com (Duncan Hart)</managingEditor>
@@ -36,6 +36,15 @@ Value for money – are you achieving results in the most cost-effective manner?
       <pubDate>Sun, 01 Mar 2020 04:52:18 +0000</pubDate>
       <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
       <guid>https://CyberRiskQuant.com/be-prepared/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NodeJS</title>
+      <link>https://CyberRiskQuant.com/partners/netlifycms/</link>
+      <pubDate>Wed, 28 Nov 2018 05:15:34 +0000</pubDate>
+      <author>DAH@CyberRiskQuant.com (Duncan Hart)</author>
+      <guid>https://CyberRiskQuant.com/partners/netlifycms/</guid>
       <description></description>
     </item>
     
