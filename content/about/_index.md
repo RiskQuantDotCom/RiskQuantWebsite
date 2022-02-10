@@ -16,8 +16,8 @@ sections:
     theme: base
     backgroundColorCustom: ''
   headings:
-    heading: '"Have a stopwatch in your hand so you can measure your own performance and pace yourself accordingly."'
-    text: "    - Andy Grove, Chairman & CEO, Intel Corporation."
+    heading: '"An organisation that does not evaluate, is one that is not learning or getting better."'
+    text: '      - Professor David Halpern, Chief Executive, The Behavioural Insights Team.'
     headingColorCustom: ''
     subHeadingColorCustom: ''
     textColorCustom: '#405965'

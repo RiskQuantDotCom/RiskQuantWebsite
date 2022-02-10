@@ -1,5 +1,5 @@
 ---
-title: Turning cyber security data into information you can use.
+title: Transforming cyber security risks into meaningful business terms. 
 date: 2020-03-01T00:00:01+00:00
 headerTransparent: false
 sections:
@@ -39,4 +39,13 @@ sections:
      text: Always be prepared. Learn more.
      external: false 
      buttonTheme: primary
+- template: cta
+  options:
+      paddingTop: false  # true/false
+      paddingBottom: false # true/false
+      borderTop: true # true/false
+      borderBottom: true # true/false
+      theme: primary
+  heading: "Expert advisory, problem-solving consultancy & analytical decision support to transform cyber security risks into meaningful business terms."
+  description: ''
 ---

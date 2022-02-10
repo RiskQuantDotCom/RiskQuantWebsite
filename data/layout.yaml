@@ -18,9 +18,9 @@ header:
   headerFixed: true
 
 footer:
-  title: "Turning cyber security risk data into information you can use now."
+  title: "Expert advisory, problem-solving consultancy & analytical decision support to transform cyber security risks into meaningful business terms."
   copyrightText: >
-      If you have questions, need help or would suggest improvements, please create an issue on our Github repo. Alternatively you can email us: HereToHelp@CyberRiskQuant.com 
+      If you have questions, need help or would suggest improvements, please create an issue on our public Github repository. Alternatively email us directly at: HereToHelp@CyberRiskQuant.com 
   copyrightLink: "https://github.com/cyberriskquant/heretohelp"
   copyrightShow: true
   showSocialMediaIcons: true 
