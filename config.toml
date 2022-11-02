@@ -76,6 +76,10 @@ metaDataFormat = "yaml"
     name = "Policies"
     url = "/policies/"
     weight = 4
+[[menu.footer_primary]]
+    name = "Security.txt"
+    url = "/security/"
+    weight = 5
 # Footer Menu Secondary
 [[menu.footer_secondary]]
     name = "5/171 Collins Street, Melbourne, VIC 3000, Australia"
