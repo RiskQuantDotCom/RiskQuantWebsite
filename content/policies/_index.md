@@ -20,3 +20,5 @@ sections:
 #### [Terms of Use](/policies/tos)
 
 #### [Code of Ethical Responsibility](/policies/ethics)
+
+#### [Security.txt](/security.txt)

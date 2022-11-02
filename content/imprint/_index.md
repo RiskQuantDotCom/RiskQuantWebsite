@@ -13,15 +13,16 @@ sections:
 ---
 ## Imprint
 
-RiskQuant Pty Ltd t/as Cyber Risk Quant.
+Cyber Risk Quant is the trading name of RiskQuant Pty Ltd.
 
-Australian Business Number: 35635909901
+Our Australian Business Number is 35635909901
 
 RiskQuant Pty Ltd is incorporated in the state of Victoria, Australia.
 
-Principal Place of Business: 5/171 Collins Street, Melbourne, VIC 3000, Australia.
+Our Principal Place of Business is 5/171 Collins Street, Melbourne, VIC 3000, Australia.
 
-Switchboard: +61 3 7020 3350   
-Help desk: HereToHelp@CyberRiskQuant.com
+Contact our switchboard on +61 3 7020 3350   
 
-We’re happy to hear from you, just call at your convenience, or drop us an email. We are open, always accessible and want direct communication with you. The place to start is at the top, with Duncan Hart: Duncan@CyberRiskQuant.com or +1 (212) 2014-118.
+Our 24/7/365 help desk is HereToHelp@CyberRiskQuant.com
+
+If you have questions, need help or would suggest improvements, please create an issue on our public [Github repository](https://github.com/cyberriskquant/heretohelp).
