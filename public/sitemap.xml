@@ -63,32 +63,57 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://CyberRiskQuant.com/posts/</loc>
-    <lastmod>2021-01-01T10:26:40+10:00</lastmod>
+    <lastmod>2022-11-03T10:26:40+10:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://CyberRiskQuant.com/authors/</loc>
-    <lastmod>2021-01-01T10:26:40+10:00</lastmod>
+    <lastmod>2022-11-03T10:26:40+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://CyberRiskQuant.com/categories/budget/</loc>
+    <lastmod>2022-11-03T10:26:40+10:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://CyberRiskQuant.com/categories/</loc>
-    <lastmod>2021-01-01T10:26:40+10:00</lastmod>
+    <lastmod>2022-11-03T10:26:40+10:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://CyberRiskQuant.com/categories/cyber/</loc>
-    <lastmod>2021-01-01T10:26:40+10:00</lastmod>
+    <lastmod>2022-11-03T10:26:40+10:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://CyberRiskQuant.com/categories/cybersecurity/</loc>
-    <lastmod>2021-01-01T10:26:40+10:00</lastmod>
+    <lastmod>2022-11-03T10:26:40+10:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://CyberRiskQuant.com/authors/duncan-hart/</loc>
-    <lastmod>2021-01-01T10:26:40+10:00</lastmod>
+    <lastmod>2022-11-03T10:26:40+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://CyberRiskQuant.com/posts/howmuchtospend/</loc>
+    <lastmod>2022-11-03T10:26:40+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://CyberRiskQuant.com/tags/perspectives/</loc>
+    <lastmod>2022-11-03T10:26:40+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://CyberRiskQuant.com/categories/risk/</loc>
+    <lastmod>2022-11-03T10:26:40+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://CyberRiskQuant.com/tags/</loc>
+    <lastmod>2022-11-03T10:26:40+10:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -98,21 +123,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://CyberRiskQuant.com/categories/performance/</loc>
-    <lastmod>2021-01-01T10:26:40+10:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://CyberRiskQuant.com/tags/perspectives/</loc>
-    <lastmod>2021-01-01T10:26:40+10:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://CyberRiskQuant.com/categories/risk/</loc>
-    <lastmod>2021-01-01T10:26:40+10:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://CyberRiskQuant.com/tags/</loc>
     <lastmod>2021-01-01T10:26:40+10:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
