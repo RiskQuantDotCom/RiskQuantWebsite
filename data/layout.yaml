@@ -18,12 +18,12 @@ header:
   headerFixed: true
 
 footer:
-  title: "Expert advisory, problem-solving consultancy & analytical decision support to transform cyber security risks into meaningful business terms."
+  title: "If you have questions, need help or would suggest improvements, please create an issue on our public Github repository. Alternatively email us directly at: HereToHelp@CyberRiskQuant.com"
   copyrightText: >
-      If you have questions, need help or would suggest improvements, please create an issue on our public Github repository. Alternatively email us directly at: HereToHelp@CyberRiskQuant.com 
+      RiskQuant™ is a registered trade mark of RiskQuant Pty Ltd. All rights reserved. 
   copyrightLink: "https://github.com/cyberriskquant/heretohelp"
   copyrightShow: true
-  showSocialMediaIcons: true 
+  showSocialMediaIcons: false 
   footerMenuPrimaryHeading: "Site"
   showPrimaryFooterMenu: true
   footerMenuSecondaryHeading: "Cyber Risk Quant"
