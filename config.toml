@@ -82,7 +82,7 @@ metaDataFormat = "yaml"
     weight = 5
 # Footer Menu Secondary
 [[menu.footer_secondary]]
-    name = "5/171 Collins Street, Melbourne, VIC 3000, Australia"
+    name = "5 / 171 Collins Street, Melbourne, VIC 3000, Australia"
     url = "https://g.page/CyberRiskQuant?share"
     weight = 1
 [[menu.footer_secondary]]
