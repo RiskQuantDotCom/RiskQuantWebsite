@@ -15,7 +15,7 @@ sections:
 
 Cyber Risk Quant is the trading name of RiskQuant Pty Ltd.
 
-RiskQuant™ is a registered trade mark of RiskQuant Pty Ltd.
+RiskQuant® is a registered trade mark of RiskQuant Pty Ltd.
 
 Our Australian Business Number is 35635909901
 
